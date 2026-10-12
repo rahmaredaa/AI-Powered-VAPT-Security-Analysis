@@ -66,7 +66,7 @@ All security testing will be conducted only in authorized lab environments or on
 
 AI-generated findings and recommendations will be independently reviewed before being treated as confirmed security issues. Sensitive information will be handled responsibly, and local models will be preferred when appropriate for privacy and data protection.
 
-## 📌 Project Status
+## Project Status
 
 **In Progress** 
 
